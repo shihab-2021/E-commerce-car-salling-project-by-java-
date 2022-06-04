@@ -150,7 +150,7 @@
           <Group type="103" groupAlignment="0" attributes="0">
               <Group type="102" attributes="0">
                   <Group type="103" groupAlignment="0" attributes="0">
-                      <Group type="102" alignment="0" attributes="0">
+                      <Group type="102" attributes="0">
                           <EmptySpace min="-2" pref="87" max="-2" attributes="0"/>
                           <Group type="103" groupAlignment="0" attributes="0">
                               <Group type="102" attributes="0">
@@ -171,11 +171,11 @@
                           </Group>
                       </Group>
                       <Group type="102" alignment="0" attributes="0">
-                          <EmptySpace min="-2" pref="59" max="-2" attributes="0"/>
-                          <Component id="jLabel5" min="-2" pref="237" max="-2" attributes="0"/>
+                          <EmptySpace min="-2" pref="23" max="-2" attributes="0"/>
+                          <Component id="jLabel5" min="-2" pref="291" max="-2" attributes="0"/>
                       </Group>
                   </Group>
-                  <EmptySpace pref="334" max="32767" attributes="0"/>
+                  <EmptySpace pref="316" max="32767" attributes="0"/>
               </Group>
           </Group>
         </DimensionLayout>
@@ -327,7 +327,7 @@
             <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
               <Color blue="ff" green="66" red="33" type="rgb"/>
             </Property>
-            <Property name="text" type="java.lang.String" value="New user! Click for register..."/>
+            <Property name="text" type="java.lang.String" value="Already registered! Click here to login."/>
           </Properties>
           <Events>
             <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jLabel5MouseClicked"/>
